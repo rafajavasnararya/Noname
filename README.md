@@ -1,6 +1,7 @@
 # Roblox 5 Account AFK Bot
 
-Bot Python buat login dan AFK di Roblox pakai 5 akun sekaligus. Jalan bergiliran biar ringan di Replit gratis.
+Script python ini buat login dan AFK di Roblox pakai 5 akun sekaligus.
+Jalan bergiliran biar ringan untuk user gratisan replit.
 
 ## Fitur
 - Login 5 akun otomatis
@@ -21,6 +22,7 @@ Upload semua file ini ke Replit:
 - .gitignore
 
 ### 2. Install package
-Buka tab Shell di Replit, jalanin:
+Buka tab Shell di replit, jalanin:
 ```bash
 pip install -r requirements.txt
+ 
